@@ -12,7 +12,8 @@ The application provides an intuitive GUI that lets you:
 - Run the k-means segmentation (using either a custom implementation or OpenCV’s optimized function).
 - Save the segmented image to a file.
 
-![Application Interface with an example of segmentation](examples/example.jpg)
+![Application Interface](examples/example.jpg)
+*GUI of the application with the example segmentation of a red rose image*
 
 ## Requirements
 
